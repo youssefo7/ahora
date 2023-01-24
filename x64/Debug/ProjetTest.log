@@ -1,0 +1,16 @@
+﻿  bibliotheque_cours.cpp
+C:\Users\ouara\source\repos\2440-git\Livrable-2-v2\Livrable2\include\CodeCoverage_bugfix.h : warning : Il vous manque le fichier CodeCoverage.h de Visual Studio Enterprise ou Preview, avez vous la version Community?
+  verification_allocation.cpp
+  main.cpp
+C:\Users\ouara\source\repos\2440-git\Livrable-2-v2\Livrable2\main.cpp(65,26): warning C4100: 'argv': unreferenced formal parameter
+C:\Users\ouara\source\repos\2440-git\Livrable-2-v2\Livrable2\main.cpp(65,14): warning C4100: 'argc': unreferenced formal parameter
+  Case.cpp
+  Carte.cpp
+  Joueur.cpp
+  Commandes.cpp
+  ObjetAbstrait.cpp
+C:\Users\ouara\source\repos\2440-git\Livrable-2-v2\Livrable2\ObjetAbstrait.cpp(19,43): warning C4100: 'position': unreferenced formal parameter
+  Clef.cpp
+  Echelle.cpp
+  Generating Code...
+  ProjetTest.vcxproj -> C:\Users\ouara\source\repos\2440-git\Livrable-2-v2\Livrable2\x64\Debug\Livrable 1.exe
